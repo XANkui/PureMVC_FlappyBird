@@ -1,0 +1,16 @@
+﻿{
+"ConfigInfo":
+[
+{"Key":"本配置文件说明"},
+
+{"Key":"StartGamePanel",
+"Value":"UIPannel_Prefabs\\StartGamePanel"},
+
+{"Key":"GameGuidePanel",
+"Value":"UIPannel_Prefabs\\GameGuidePanel"},
+
+{"Key":"GamePlayingPanel",
+"Value":"UIPannel_Prefabs\\GamePlayingPanel"}
+
+]
+}

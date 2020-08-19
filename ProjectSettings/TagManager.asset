@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - _TagUICamera
+  - _TagCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1_BG
+    uniqueID: 334554653
+    locked: 0
+  - name: 2_Low
+    uniqueID: 884605339
+    locked: 0
+  - name: 3_Media
+    uniqueID: 1736967143
+    locked: 0
+  - name: 4_High
+    uniqueID: 1540728515
+    locked: 0
+  - name: 5_Player
+    uniqueID: 1404291197
+    locked: 0
